@@ -1,0 +1,2 @@
+x="Shriya"
+print(x)
