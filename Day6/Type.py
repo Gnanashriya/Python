@@ -1,9 +1,10 @@
 #Get the type of variable
 x=21
 y="Python"
+z=True
 print(type(x))
 print(type(y))
-
+print(type(z))
 #single (or) double quotes
 a='Hello'
 print(a)
