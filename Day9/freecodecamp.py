@@ -22,3 +22,17 @@ print(name1_Rollno)
 num1=5
 num2=10
 print(f'The sum of {num1} and {num2} is {num1+num2}')
+
+
+#13-04-2026
+
+
+string='hello hi i am a python learner'
+starts_with=string.startswith('hi')
+print(starts_with)
+
+my_list = ['hello','hi', 'world']
+
+joined_my_str ='hey   '.join(my_list)
+print(joined_my_str)
+
