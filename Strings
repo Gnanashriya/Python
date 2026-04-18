@@ -1,0 +1,31 @@
+#You can use double or single quotes:
+
+print("Hello")
+print('Hello')
+print("It's alright")
+
+#Quotes Inside Quotes
+print("He is called 'Johnny'")
+print('He is called "Johnny"')
+
+#Assign String to a Variable
+a = "Hello"
+print(a)
+
+#Multiline Strings
+b = """Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua."""
+print(b)
+
+#Three single
+c = '''Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua.'''
+print(c)
+
+#Strings are Arrays
+d = "Hello, World!"
+print(d[1])
