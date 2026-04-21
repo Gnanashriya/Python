@@ -18,3 +18,4 @@ print(a[:5])
 #Slicing from end
 c="python is easy to learn"
 print(c[7:])
+
