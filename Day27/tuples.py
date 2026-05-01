@@ -8,3 +8,5 @@ print(type(thistu))
 #NOT a tuple
 this = ("apple")
 print(type(this))
+
+
