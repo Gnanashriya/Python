@@ -1,3 +1,4 @@
+#tuples (to store multiple values in a single variable)
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
 thist = ("apple", "banana", "cherry", "apple", "cherry")

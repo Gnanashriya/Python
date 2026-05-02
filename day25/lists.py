@@ -58,11 +58,11 @@ def lastDigit(self, n: int) -> int:
         return n % 10
 
 
-# #lists
-# mylist=list(map(int,input("enter num").split()))
-# if len(mylist)>=2:
-#      print("second ele",mylist[1])
-# print("even num of list")
-# for n in mylist:
-#      if n%2==0:
-#           print(n)
+#lists
+mylist=list(map(int,input("enter num").split()))
+if len(mylist)>=2:
+     print("second ele",mylist[1])
+print("even num of list")
+for n in mylist:
+     if n%2==0:
+          print(n)
